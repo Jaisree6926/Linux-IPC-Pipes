@@ -1,7 +1,5 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
-# NAME: JAISREE B
-# REG NO:212224230100
 
 # Ex03-Linux IPC - Pipes
 
